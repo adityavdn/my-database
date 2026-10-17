@@ -1,5 +1,7 @@
 # My Database
 
+![tests](https://github.com/adityavdn/my-database/actions/workflows/tests.yml/badge.svg)
+
 A SQL database implemented from scratch in Python, with storage, indexing and query execution built without external database libraries.
 
 ## Overview
